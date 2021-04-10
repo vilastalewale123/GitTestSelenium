@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-//My name is vilas
+//My name is vilas talewale
 public class TestGit {
 public WebDriver driver;
 	
